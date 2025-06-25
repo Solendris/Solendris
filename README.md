@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Kornel Kołba
+# Hi, I'm Kornel Kołba
 
-### 🎯 Junior Data Analyst transitioning from QA into Data Science  
-🔍 I’m passionate about extracting value from data and building clean, meaningful analyses.
+### Junior Data Analyst transitioning from QA into Data Science  
+I’m passionate about extracting value from data and building clean, meaningful analyses.
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 **Languages & Analysis**  
 `Python` | `SQL` | `Excel`  
@@ -21,33 +21,34 @@
 
 ---
 
-## 📊 Projects
+## Projects
 
-### 🧪 [Universal AutoClicker](https://github.com/Solendris/Universal_Autoclicker)
+### [Universal AutoClicker](https://github.com/Solendris/Universal_Autoclicker)
 A cross-platform GUI application for recording and replaying mouse & keyboard actions — built in Python using `tkinter`, `pyautogui`, `keyboard`.
 
-### 📈 [CocaCola Stock Analysis](https://github.com/Solendris/CocaCola_stock)
+### [CocaCola Stock Analysis](https://github.com/Solendris/CocaCola_stock)
 Exploratory analysis on about 65 years of Coca-Cola stock data. Includes database import, cleaning, statistical analysis, and visualizations in `Matplotlib`.
 
 ---
 
-## 📚 Education
+## Education
 
-🎓 **MSc in Computer Science** – Business Applications & Databases  
-🎓 **BSc in Computer Science** – Web Applications Programming  
-📍 Politechnika Częstochowska
+**MSc in Computer Science** – Business Applications & Databases  
+**BSc in Computer Science** – Web Applications Programming  
+Politechnika Częstochowska
 
 ---
 
-## 🔎 Currently Learning
+## Currently Learning
 
 - Advanced SQL and Excel analytics
 - Data storytelling with `Plotly` & `Tableau`
 - Building ETL pipelines with Python
+- Anything what's necessary!
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect!
 
-📧 [kornel.kolba@gmail.com](mailto:kornel.kolba@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kornel-ko%C5%82ba-b44446284)
+[kornel.kolba@gmail.com](mailto:kornel.kolba@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/kornel-ko%C5%82ba-b44446284)
